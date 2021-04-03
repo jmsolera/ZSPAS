@@ -1,0 +1,1 @@
+sap.ui.define(["sap/suite/ui/generic/template/lib/AppComponent"],function(e){return e.extend("com.jmsolera.petmanager.zui5petmanager.Component",{metadata:{manifest:"json"}})});                                                                               
